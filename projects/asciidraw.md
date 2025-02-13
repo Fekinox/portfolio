@@ -3,4 +3,12 @@ layout: page
 title: "Ascii Draw"
 ---
 
-describe ascii draw here
+<a rel="me" href="https://github.com/Fekinox/ascii-draw">
+    Github
+</a>
+
+An art program that runs entirely in your terminal emulator!
+
+![The completed image from Advent of Code 2016](https://private-user-images.githubusercontent.com/20966518/408221153-73e3e943-8f18-46f5-b70c-1fe19d9e285f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk0NjAyNjMsIm5iZiI6MTczOTQ1OTk2MywicGF0aCI6Ii8yMDk2NjUxOC80MDgyMjExNTMtNzNlM2U5NDMtOGYxOC00NmY1LWI3MGMtMWZlMTlkOWUyODVmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEzVDE1MTkyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4ZDU2ZDVlZjM2ZjA3OTVkNmYxNmUyZjYzYzUxMjUzZjhmNGI4MTkzMDBlODVjMjg4MWMxYWEyMzg2ZDUzYjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.MhQIfMymo10f-vkCF1GXw4PR1qfgaffk1LZgwUKt7E4)
+
+*(Sample image is the completed calendar from [Advent of Code 2016](https://adventofcode.com/2016))*
