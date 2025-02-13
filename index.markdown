@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: "Will Fowlkes"
 ---
@@ -12,7 +9,7 @@ Recent university graduate with a bachelor’s degree in mathematics and strong 
 
 ## Projects
 
-* **Chrysalis** - Productivity app for creating and managing services   
-* **Digital Derby** - Virtual horse race betting game
-* **Ascii-draw** - Drawing application based entirely in the terminal
-* **go-chrysalis** - Rewrite of the Chrysalis app from scratch
+* [**Chrysalis**]({{site.baseurl}}{% link projects/chrysalis.md %}) - Productivity app for creating and managing services   
+* [**Digital Derby**]({{site.baseurl}}{% link projects/digitalderby.md %}) - Virtual horse race betting game
+* [**Ascii-draw**]({{site.baseurl}}{% link projects/asciidraw.md %}) - Drawing application based entirely in the terminal
+* [**Chrysalis (Go rewrite)**]({{site.baseurl}}{% link projects/gochrysalis.md %}) - Rewrite of the Chrysalis app from scratch
