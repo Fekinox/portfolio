@@ -20,4 +20,4 @@ Recent university graduate with a bachelor’s degree in mathematics and strong 
 * [**Digital Derby**]({{site.baseurl}}{% link projects/digitalderby.md %}) - Virtual horse race betting game
 * [**Ascii-draw**]({{site.baseurl}}{% link projects/asciidraw.md %}) - Drawing application based entirely in the terminal
 * [**Chrysalis (Go rewrite)**]({{site.baseurl}}{% link projects/gochrysalis.md %}) - Rewrite of the Chrysalis app from scratch
-
+* [**Advent of Code**]({{site.baseurl}}{% link projects/aoc.md %}) - Advent of Code solutions (296/500 stars)
