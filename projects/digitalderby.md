@@ -1,7 +1,6 @@
----
-layout: page
-title: "Digital Derby"
----
+______________________________________________________________________
+
+## layout: page title: "Digital Derby"
 
 <a rel="me" href="https://github.com/digitalderby">
     Github
@@ -15,18 +14,18 @@ Place bets on virtual horse races in real time! The horses each have randomized 
 
 ### Misc:
 
-* **Socket.IO** - Real-time communication layer
+- **Socket.IO** - Real-time communication layer
 
 ### Backend:
 
-* **Typescript** - Backend scripting language
-* **Express** - Minimal web framework
-* **MongoDB** - Database
-* **Heroku** - Backend deployment
+- **Typescript** - Backend scripting language
+- **Express** - Minimal web framework
+- **MongoDB** - Database
+- **Heroku** - Backend deployment
 
 ### Frontend
 
-* **Javascript** - Frontend scripting language
-* **Vite** - Frontend build tool
-* **React** - Frontend framework
-* **Netlify** - Frontend deployment
+- **Javascript** - Frontend scripting language
+- **Vite** - Frontend build tool
+- **React** - Frontend framework
+- **Netlify** - Frontend deployment

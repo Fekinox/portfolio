@@ -1,7 +1,6 @@
----
-layout: page
-title: "Chrysalis (Go rewrite)"
----
+______________________________________________________________________
+
+## layout: page title: "Chrysalis (Go rewrite)"
 
 <a rel="me" href="https://github.com/Fekinox/chrysalis-backend">
     Github
@@ -12,7 +11,7 @@ A full rewrite of Chrysalis in Go.
 ## Technologies Used
 
 | Technology | Usage                                                                |
-|------------|----------------------------------------------------------------------|
+| ---------- | -------------------------------------------------------------------- |
 | Gin        | HTTP framework and muxer for Go.                                     |
 | Nginx      | Reverse proxy                                                        |
 | PostgreSQL | Relational database for persistent data storage.                     |
