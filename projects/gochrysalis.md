@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## layout: page title: "Chrysalis (Go rewrite)"
+---
+layout: page
+title: "Chrysalis (Go rewrite)"
+---
 
 <a rel="me" href="https://github.com/Fekinox/chrysalis-backend">
     Github

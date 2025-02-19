@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## layout: page title: "Digital Derby"
+---
+layout: page
+title: "Digital Derby"
+---
 
 <a rel="me" href="https://github.com/digitalderby">
     Github

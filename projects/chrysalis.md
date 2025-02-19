@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## layout: page title: "Chrysalis"
+---
+layout: page
+title: "Chrysalis"
+---
 
 <a rel="me" href="https://github.com/Chrysalis-ServiceDistribution">
     Github

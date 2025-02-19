@@ -1,6 +1,7 @@
-______________________________________________________________________
-
-## layout: page title: "Ascii Draw"
+---
+layout: page
+title: "ascii-draw"
+---
 
 <a rel="me" href="https://github.com/Fekinox/ascii-draw">
     Github

@@ -1,6 +1,8 @@
-______________________________________________________________________
+---
+layout: page
+title: "Advent of Code"
+---
 
-## layout: page title: "Advent of Code"
 
 A collection of 25 programming puzzles in the format of an advent calendar. Each problem consists of two parts- Part 2 of a problem is revealed after completing Part 1.
 
